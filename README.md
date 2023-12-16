@@ -19,6 +19,7 @@ user_name = root
 password = qwerty123
 ...
 ```
+* Run the "main.py" script in the first place before executing the tests !
 ---
 ## 2. Executing tests
 
